@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    height: 100%;
+    touch-action: none;
+}
+
+.gameCanvas {
+    height: 100%;
+}
